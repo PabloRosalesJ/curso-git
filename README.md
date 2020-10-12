@@ -1,1 +1,3 @@
-# Documentacion del proyecto de Git
+# Proyecto de Git
+
+Praticando con git
